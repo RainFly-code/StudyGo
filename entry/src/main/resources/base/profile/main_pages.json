@@ -1,0 +1,30 @@
+{
+  "src": [
+    "pages/admin/AdminHomePage",
+    "pages/home/HomePage",
+    "pages/login/LoginPage",
+    "pages/login/RegisterPage",
+    "pages/studyroom/StudyRoomDetailPage",
+    "pages/studyroom/StudyRoomListPage",
+    "pages/reservation/SeatReservationPage",
+    "pages/admin/reservation/ReservationDetailPage",
+    "pages/reservation/MyReservationPage",
+    "pages/admin/reservation/ReservationListPage",
+    "pages/reservation/ReservationDetailPage",
+    "pages/feedback/FeedbackAddPage",
+    "pages/feedback/FeedbackDetailPage",
+    "pages/feedback/FeedbackListPage",
+    "pages/user/UserProfilePage",
+    "pages/user/PasswordChangePage",
+    "pages/admin/studyroom/StudyRoomDetailPage",
+    "pages/admin/studyroom/StudyRoomEditPage",
+    "pages/admin/studyroom/StudyRoomListPage",
+    "pages/admin/seat/SeatManagePage",
+    "pages/admin/user/UserListPage",
+    "pages/admin/user/UserDetailPage",
+    "pages/admin/announcement/AnnouncementEditPage",
+    "pages/admin/announcement/AnnouncementListPage",
+    "pages/admin/feedback/FeedbackListPage",
+    "pages/admin/feedback/FeedbackDetailPage"
+  ]
+}
