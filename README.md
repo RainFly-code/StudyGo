@@ -1,3 +1,4 @@
+后端接口服务器地址：https://github.com/RainFly-code/StudyGo-backend
 # StudyGo项目技术栈
 ## 开发平台与框架
 1. HarmonyOS开发平台 ：项目基于华为的HarmonyOS操作系统开发，从 build-profile.json5 文件中可以看到 runtimeOS: "HarmonyOS" 的配置。
